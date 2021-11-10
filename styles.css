@@ -21,6 +21,7 @@ hr {
 }
 img{
   height:173px;
+  border-radius:170px;
 }
 img:hover{
   background-color: transparent;
