@@ -1,0 +1,39 @@
+body {
+  background-color: #EAF6F6;
+}
+hr {
+  width:5%;
+  border-style: none;
+  background-color: white;
+  height: 0;
+
+  border-top-style:dotted;
+  border-color:grey;
+  border-width:7px
+}
+.bacon {
+  background-color: red;
+  height: 173px;
+}
+.diya{
+  height: 173px;
+  background-color: green;
+}
+img{
+  height:173px;
+}
+img:hover{
+  background-color: transparent;
+}
+h1 {
+  color: #66BFBF;
+}
+h3 {
+  color: #66BFBF;
+}
+#hd{
+  color:red;
+}
+.circular{
+  border-radius: 170px;
+}
